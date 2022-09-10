@@ -1,0 +1,11 @@
+# Generated with Overlay Style Manager 1.0
+
+[Style]
+Alpha = 1
+WindowPadding = [ 10, 10 ]
+WindowRounding = 10
+WindowTitleAlign = [ 0.5, 0.5 ]
+FramePadding = [ 10, 6 ]
+
+[Colors]
+WindowBg = "#191919"
